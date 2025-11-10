@@ -35,13 +35,16 @@ All scripts are annotated for methodological transparency and replication.
 
 ---
 
-### **Repository Structure**
+<h3><strong>Repository Structure</strong></h3>
+<pre>
 /SEM_Models
 /GEE_Methods
 /LMM_Trajectories
 /Text_Networks
 /Survey_Design
 /Visualization
+</pre>
+
 ### **Citation**
 If you adapt material from this repository, please cite:  
 **Aref, F. (2025). _QuantitativeSocietyLab: Advanced Models for Social and Policy Research._ GitHub.**  
