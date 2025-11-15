@@ -2,10 +2,8 @@
 
   <h1>QuantitativeSocietyLab</h1>
   <h3>Advanced Models for Social and Policy Research</h3>
-
   <p><strong>Dr. Fariborz Aref</strong><br/>
-  Sociologist · Computational & Mixed-Methods Research<br/>
-  🌐 <a href="https://fariborzaref.com">fariborzaref.com</a> · 📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a> · <a href="https://orcid.org/0000-0001-6622-1824">ORCID</a>
+
   </p>
 
 </div>
