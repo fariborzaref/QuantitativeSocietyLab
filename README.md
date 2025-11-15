@@ -2,7 +2,7 @@
 
   <h1>QuantitativeSocietyLab</h1>
   <h3>Advanced Models for Social and Policy Research</h3>
-  <p><strong>Fariborz Aref</strong><br/>
+  <p><strong>Dr. Fariborz Aref</strong><br/>
 
   </p>
 
