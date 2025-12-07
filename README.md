@@ -44,6 +44,5 @@ All scripts are annotated for methodological transparency and replication.
 </pre>
 
 ### **Citation**
-If you adapt material from this repository, please cite:  
 **Aref, F. (2025). _QuantitativeSocietyLab: Advanced Models for Social and Policy Research._ GitHub.**  
 [https://github.com/fariborzaref/QuantitativeSocietyLab](https://github.com/fariborzaref/QuantitativeSocietyLab)
